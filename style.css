@@ -1,0 +1,44 @@
+p{
+    color: rgb(72, 101, 101);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+header{
+    background-size: cover;
+    height: 300px;
+    background-image: url('https://media.istockphoto.com/id/936394272/es/vector/natural-patr%C3%B3n-abstracto-forma-de-la-curva-hoja-verde-color-fondo.jpg?s=612x612&w=0&k=20&c=9rwSaxA2hbLrGDnkCexKOtotVLTvYOhHkrMmLVig9NA=');
+
+}
+
+main{
+    background-color: antiquewhite;
+}
+h1{
+    color: black;
+    text-align: center;
+
+}
+
+/* comentario */
+
+h3{
+    color: blue;
+}
+.titulo1{
+    color: red;
+    text-align: center;
+}
+
+.titulo2{
+    color: green;
+}
+#lista-desordenada{
+    color: rgb(215, 34, 191);
+}
+img{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
